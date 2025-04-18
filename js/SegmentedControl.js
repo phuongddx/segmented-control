@@ -158,9 +158,9 @@ const styles = StyleSheet.create({
   default: {
     overflow: 'hidden',
     position: 'relative',
-    height: 32,
+    height: 26,
     backgroundColor: '#EEEEF0',
-    borderRadius: 9,
+    borderRadius: 13,
   },
   darkControl: {
     backgroundColor: '#1C1C1F',
