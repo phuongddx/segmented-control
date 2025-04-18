@@ -122,7 +122,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     margin: 2,
-    borderRadius: 4,
+    borderRadius: 11,
   },
   activeText: {
     fontWeight: '700',

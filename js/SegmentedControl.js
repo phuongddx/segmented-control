@@ -170,7 +170,7 @@ const styles = StyleSheet.create({
   },
   slider: {
     position: 'absolute',
-    borderRadius: 7,
+    borderRadius: 11,
     top: 2,
     bottom: 2,
     right: 2,
