@@ -158,9 +158,9 @@ const styles = StyleSheet.create({
   default: {
     overflow: 'hidden',
     position: 'relative',
-    height: 32,
+    height: 26,
     backgroundColor: '#EEEEF0',
-    borderRadius: 9,
+    borderRadius: 13,
   },
   darkControl: {
     backgroundColor: '#1C1C1F',
@@ -170,7 +170,7 @@ const styles = StyleSheet.create({
   },
   slider: {
     position: 'absolute',
-    borderRadius: 7,
+    borderRadius: 11,
     top: 2,
     bottom: 2,
     right: 2,
